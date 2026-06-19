@@ -1,4 +1,0 @@
-| **Tipo** | **Tradução** |                                                       | **Revisão** |                                                      |
-| :------: | :----------: | :---------------------------------------------------: | :---------: | :--------------------------------------------------: |
-|  images  | 64/64 (100%) | ![Progress](https://progress-bar.xyz/100/?&width=150) | 51/64 (79%) | ![Progress](https://progress-bar.xyz/79/?&width=150) |
-|    ui    | 45/49 (91%)  | ![Progress](https://progress-bar.xyz/91/?&width=150)  | 29/49 (59%) | ![Progress](https://progress-bar.xyz/59/?&width=150) |
