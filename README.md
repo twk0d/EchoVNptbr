@@ -21,6 +21,14 @@ Sinta-se livre para fazer um *fork*, clonar o repositório ou utilizar os recurs
 
 ---
 
+## 📈 Status da Tradução
+
+Para manter o repositório organizado, o rastreamento completo de quais arquivos já foram traduzidos, revisados ou ainda estão pendentes foi movido para um documento próprio.
+
+👉 **[Acompanhe o Progresso da Tradução Aqui (STATUS_TRADUCAO.md)](./STATUS_TRADUCAO.md)**
+
+---
+
 ## ⚙️ Instalação
 
 ### 💻 PC (Windows / Linux / macOS)

@@ -1,0 +1,1 @@
+Hover Carregar Jogo Index offset
