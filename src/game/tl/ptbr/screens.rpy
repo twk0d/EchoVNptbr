@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-19 01:12
+# TODO: Translation updated at 2026-06-19 01:12
 
 translate ptbr strings:
 
@@ -60,7 +60,7 @@ translate ptbr strings:
 
     # game/screens.rpy:494
     old "Skip"
-    new "Pular Mensagens"
+    new "Pular"
 
     # game/screens.rpy:497
     old "After Choices"
@@ -72,7 +72,7 @@ translate ptbr strings:
 
     # game/screens.rpy:503
     old "Sound Volume"
-    new "Efeitos Sonoros"
+    new "Efeitos"
 
     # game/screens.rpy:508
     old "Voice Volume"
@@ -96,27 +96,27 @@ translate ptbr strings:
 
     # game/screens.rpy:534
     old "All"
-    new "Todas"
+    new "Tudo"
 
     # game/screens.rpy:535
     old "None"
-    new "Nenhuma"
+    new "Nenhum"
 
     # game/screens.rpy:552
     old "Seen Messages"
-    new "Lidas"
+    new "Lidos"
 
     # game/screens.rpy:553
     old "All Messages"
-    new "Todas"
+    new "Todos"
 
     # game/screens.rpy:562
     old "Stop Skipping"
-    new "Parar de pular"
+    new "Parar"
 
     # game/screens.rpy:563
     old "Keep Skipping"
-    new "Continuar Pulando"
+    new "Pular"
 
     # game/screens.rpy:723
     old "Backlog"
@@ -129,4 +129,3 @@ translate ptbr strings:
     # game/screens.rpy:925
     old "Return"
     new "Voltar"
-
