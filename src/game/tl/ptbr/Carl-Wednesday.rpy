@@ -1054,7 +1054,7 @@ translate ptbr carlwednesday_af489190:
 translate ptbr carlwednesday_f4bc1eb9:
 
     # "Leo lets out a cough into the awkward silence."
-    ""
+    "O Leo solta uma tosse no meio do silêncio constrangedor."
 
 # game/Carl-Wednesday.rpy:254
 translate ptbr carlwednesday_4fe707e2:
@@ -1444,7 +1444,7 @@ translate ptbr carlwednesday_de915ff2:
 translate ptbr carlwednesday_81cd8246:
 
     # "Smoke wafts up from his lap where I assume he's holding a joint."
-    ""
+    "A fumaça sobe do colo dele, onde imagino que ele esteja segurando um baseado."
 
 # game/Carl-Wednesday.rpy:356
 translate ptbr carlwednesday_104a1d5d:

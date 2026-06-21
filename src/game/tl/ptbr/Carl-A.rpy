@@ -3310,19 +3310,19 @@ translate ptbr carla_ee9a27d7:
 translate ptbr carla_d930d971:
 
     # "I tense up."
-    ""
+    "Eu fico tenso."
 
 # game/Carl-A.rpy:680
 translate ptbr carla_ebcc2e8d:
 
     # "Anything she does now is putting me on edge, like I'm just waiting for her to lash out again."
-    ""
+    "Qualquer coisa que ela faça agora me deixa tenso, como se eu estivesse só esperando ela explodir de novo."
 
 # game/Carl-A.rpy:681
 translate ptbr carla_39a277da:
 
     # "My hand drifts conspiratorially to my pocket where the folded up letter is."
-    ""
+    "Minha mão desliza discretamente em direção ao meu bolso, onde está a carta dobrada."
 
 # game/Carl-A.rpy:682
 translate ptbr carla_22515f75:
@@ -7972,7 +7972,7 @@ translate ptbr carla_0d8da401:
 translate ptbr carla_faffe67e:
 
     # m "\"A piece of paper, maybe?\""
-    m ""
+    m "\"Um pedaço de papel, talvez?\""
 
 # game/Carl-A.rpy:1562
 translate ptbr carla_b4401d93:

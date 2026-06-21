@@ -544,13 +544,13 @@ translate ptbr sitwithcarl_1f19a9a7:
 translate ptbr sitwithcarl_5f5f034d:
 
     # m "\"Just a news packet about Echo, really. Kinda about how it's falling apart.\""
-    m ""
+    m "\"Só uma matéria sobre Echo, na verdade. Meio que sobre como ela tá caindo aos pedaços.\""
 
 # game/Monday-Carl.rpy:102
 translate ptbr sitwithcarl_d145bd36:
 
     # c "\"Huh.\""
-    c ""
+    c "\"Hum.\""
 
 # game/Monday-Carl.rpy:103
 translate ptbr sitwithcarl_36c22690:

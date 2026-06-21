@@ -2459,7 +2459,7 @@ translate ptbr carltuesday_79822797:
 translate ptbr carltuesday_bc16c0e9:
 
     # c "\"So is all that.. are all those problems you had taken care of now?\""
-    c ""
+    c "\"Então tudo aquilo... todos aqueles problemas que cê tinha já tão resolvidos?\""
 
 # game/Carl-Tuesday.rpy:516
 translate ptbr carltuesday_118a2043:

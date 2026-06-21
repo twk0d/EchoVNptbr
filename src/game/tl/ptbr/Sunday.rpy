@@ -3780,7 +3780,7 @@ translate ptbr wideshot_df719675:
 translate ptbr wideshot_0edbc4fd:
 
     # l "\"{i}Puchica{/i}, otter.\""
-    l ""
+    l "\"{i}Puchica{/i}, lontra.\""
 
 # game/Sunday.rpy:893
 translate ptbr wideshot_1d216b90:
@@ -3936,7 +3936,7 @@ translate ptbr wideshot_11dd900f:
 translate ptbr wideshot_3557572c:
 
     # l "\"Hehe, Echo hasn't changed much, has it?\""
-    l ""
+    l "\"Hehe, Echo não mudou muito, né?\""
 
 # game/Sunday.rpy:931
 translate ptbr wideshot_0a2390b2:

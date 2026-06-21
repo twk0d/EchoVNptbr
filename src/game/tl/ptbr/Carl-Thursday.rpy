@@ -904,7 +904,7 @@ translate ptbr carlthursday_cd5d0362:
 translate ptbr carlthursday_f56d7d93:
 
     # c "\"So how'd it go, aside from the ghosts?\""
-    c ""
+    c "\"E aí, como foi, tirando os fantasmas?\""
 
 # game/Carl-Thursday.rpy:186
 translate ptbr carlthursday_094974a3:
