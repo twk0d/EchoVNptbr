@@ -34,7 +34,18 @@ Para manter o repositório organizado, o rastreamento completo de quais arquivos
 ### 💻 PC (Windows / Linux / macOS)
 1. Faça o download do **[jogo original](https://echoproject.itch.io/echo)** na **versão 1.01 (1 Year Anniversary Version)**.
 2. Baixe o arquivo `.zip` contendo o Patch de tradução.
-3. Extraia o conteúdo do Patch e mova todos os arquivos para dentro da pasta raiz do jogo original (substituindo os arquivos quando solicitado).
+3. Extraia o conteúdo do Patch e mova os arquivos da pasta `/src` para o diretório raiz do jogo original (Substituindo os arquivos quando solicitado). 
+
+#### Windows
+4.  Execute o arquivo `Alternar_Idioma.bat`.
+
+#### Linux
+4. Dar permissão de executável ao arquivo `alternar_idioma.sh` e executá-lo:
+``` 
+Abrir o terminal na pasta do jogo e executar os comandos:
+chmod +x ./alternar_idioma.sh
+./alternar_idioma.sh
+```
 
 ### 📱 Android
 No momento, **não temos** uma portabilidade (Patch) disponível para a versão de Android.
