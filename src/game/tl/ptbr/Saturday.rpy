@@ -64,7 +64,7 @@ translate ptbr saturday_dfb98e96:
 translate ptbr saturday_ace1c37e:
 
     # m "— No, TJ's with us, we picked him up yesterday..."
-    m "\"Não, o TJ tá com a gente, nós pegamos ele ontem...\""
+    m "\"Não, o TJ tá com a gente, nós buscamos ele ontem...\""
 
 # game/Saturday.rpy:38
 translate ptbr saturday_02e14b22:
@@ -118,7 +118,7 @@ translate ptbr saturday_475e90ff:
 translate ptbr saturday_8d83d075:
 
     # t "— Aww, that's cute. It's been a while since I've seen your mom. How is she?"
-    t "\"Aww, que fofo. Faz tempo que eu não vejo a sua mãe. Como ela tá?\""
+    t "\"Aww, que fofo. Faz tempo que eu não vejo a sua mãe. Como ela está?\""
 
 # game/Saturday.rpy:47
 translate ptbr saturday_8619f2c6:
@@ -130,7 +130,7 @@ translate ptbr saturday_8619f2c6:
 translate ptbr saturday_80c31c52:
 
     # m "— Fine, I think. She wouldn't tell me if she wasn't, anyway."
-    m "\"Bem, eu acho. Ela não me contaria se não estivesse, de qualquer jeito.\""
+    m "\"Bem, eu acho. De qualquer jeito, ela não me contaria.\""
 
 # game/Saturday.rpy:49
 translate ptbr saturday_7959e2ed:
@@ -154,7 +154,7 @@ translate ptbr saturday_f6013096:
 translate ptbr saturday_3494a7d0:
 
     # "It was getting to all of us, honestly."
-    "Sinceramente, estava afetando todo nós."
+    "Sinceramente, estava afetando a todos nós."
 
 # game/Saturday.rpy:53
 translate ptbr saturday_845e65b7:
@@ -262,7 +262,7 @@ translate ptbr saturday_0d1b9f6f:
 translate ptbr saturday_42f6f117:
 
     # "I wonder if completing our little group will bring back that old chemistry."
-    "Eu me pergunto se completar o nosso grupinho vai trazer de volta aquela velha química."
+    "Eu me pergunto se com o nosso grupinho completo aquela velha química vai voltar."
 
 # game/Saturday.rpy:71
 translate ptbr saturday_bfe0733d:
@@ -274,7 +274,7 @@ translate ptbr saturday_bfe0733d:
 translate ptbr saturday_b6df5546:
 
     # "GPS" "— Take exit 127 onto Flint Road."
-    "GPS" "\"Pegue a saída 127 para a Flint Road.\""
+    "GPS" "\"Pegue a saída 127 para a Rua Cascalho.\""
 
 # game/Saturday.rpy:74
 translate ptbr saturday_445f1390:
@@ -310,25 +310,25 @@ translate ptbr saturday_e8754218:
 translate ptbr saturday_6da3b5e2:
 
     # m "— Hey, me and Jenna went three hours out of our way to pick you up from CCU, you could have taken the bus."
-    m "\"Ei, a Jenna e eu desviamos três horas do caminho pra te buscar na CCU, você podia ter pego o ônibus.\""
+    m "\"Ei, a Jenna e eu desviamos três horas do caminho pra te buscar na UCC, você podia ter pego o ônibus.\""
 
 # game/Saturday.rpy:84
 translate ptbr saturday_78d9f730:
 
     # t "— No, no, I'm grateful. I'd just rather this not be the place I die, haha."
-    t "\"Não, não, eu tô agradecido. Eu só prefiro que esse não seja o lugar onde eu morra, haha...\""
+    t "\"Não, não, eu tô agradecido. Eu só prefiro não morrer aqui, haha...\""
 
 # game/Saturday.rpy:85
 translate ptbr saturday_bdca8b65:
 
     # "We continue down Flint road for about fifteen minutes in silence while I avoid the ever-increasing number of potholes in the road."
-    "A gente continua pela Flint Road por uns quinze minutos em silêncio enquanto eu evito o número cada vez maior de buracos na rua."
+    "A gente continua pela Rua Cascalho por uns quinze minutos em silêncio enquanto eu evito o número cada vez maior de buracos na rua."
 
 # game/Saturday.rpy:86
 translate ptbr saturday_5c261286:
 
     # "I think we're all a little nervous now as we get closer to our destination."
-    "Eu acho que nós todos estamos um pouco nervosos agora que nos aproximamos do nosso destino."
+    "Eu acho que todos nós estamos um pouco nervosos agora que nos aproximamos do nosso destino."
 
 # game/Saturday.rpy:87
 translate ptbr saturday_1b3bfa97:
@@ -460,7 +460,7 @@ translate ptbr saturday_ffe605fe:
 translate ptbr saturday_2d88c4bd:
 
     # "GPS" "— Make a slight right onto Lake Emma Road."
-    "GPS" "\"Vire ligeiramente à direita para a Lake Emma Road.\""
+    "GPS" "\"Vire ligeiramente à direita para a Rua Do Lago Emma.\""
 
 # game/Saturday.rpy:117
 translate ptbr saturday_6df43fd7:
@@ -490,7 +490,7 @@ translate ptbr saturday_7757afa0:
 translate ptbr saturday_c2f8a061:
 
     # m "— A news packet."
-    m "\"Um pacote de notícias.\""
+    m "\"Um boletim de notícias.\""
 
 # game/Saturday.rpy:122
 translate ptbr saturday_d6a1d323:
@@ -520,13 +520,13 @@ translate ptbr saturday_a2d63667:
 translate ptbr saturday_4a23424f:
 
     # m "— Honestly, though, I just need to make something that looks good enough to pass with."
-    m "\"Sinceramente, no entanto, eu só preciso fazer algo que pareça bom o bastante pra passar.\""
+    m "\"Mas, sendo sincero, eu só preciso fazer algo que pareça bom o bastante pra passar.\""
 
 # game/Saturday.rpy:127
 translate ptbr saturday_00edbaef:
 
     # j "— Well that sounds kinda fun. Are you going to have enough time to hang out? I know Leo made some plans."
-    j "\"Bom, isso parece um tanto divertido. Você vai ter tempo o bastante pra sair com a gente? Sei que o Leo fez uns planos.\""
+    j "\"Bom, isso parece até que divertido. Você vai ter tempo o bastante pra sair com a gente? Sei que o Leo fez uns planos.\""
 
 # game/Saturday.rpy:128
 translate ptbr saturday_9dc89e5a:
@@ -550,7 +550,7 @@ translate ptbr saturday_fd32237e:
 translate ptbr saturday_d61ca551:
 
     # m "— Yeah, I should. I just need some b-roll and shots of the old, creepy locations."
-    m "\"Sim, eu devo ter. Só preciso de umas filmagens de apoio e umas cenas dos lugares velhos e assustadores.\""
+    m "\"Sim, devo ter. Só preciso de umas filmagens de apoio e umas cenas dos lugares velhos e assustadores.\""
 
 # game/Saturday.rpy:132
 translate ptbr saturday_1d034233:
@@ -562,7 +562,7 @@ translate ptbr saturday_1d034233:
 translate ptbr saturday_4630a5a4:
 
     # "I catch a flash of blue and see the lake to our right."
-    "Eu capto um clarão azul e vejo o lago à nossa direita."
+    "Vejo um clarão azul e percebo o lago à nossa direita."
 
 # game/Saturday.rpy:134
 translate ptbr saturday_3ed81d0b:
@@ -574,7 +574,7 @@ translate ptbr saturday_3ed81d0b:
 translate ptbr saturday_a5666e8b:
 
     # "Finally, we round a bend and I start to catch some glimpses of the town."
-    "Finalmente, a gente faz uma curva e eu começo a ter uns vislumbres da cidade."
+    "Finalmente, a gente faz uma curva e começo a ter uns vislumbres da cidade."
 
 # game/Saturday.rpy:136
 translate ptbr saturday_0b8965a2:
@@ -586,7 +586,7 @@ translate ptbr saturday_0b8965a2:
 translate ptbr saturday_815237d2:
 
     # "Lake Emma Road merges right onto Main Street, where the motel is at."
-    "A Lake Emma Road entra à direita na Main Street, onde fica o motel."
+    "A Rua Do Lago Emma entra à direita na Main Street, onde fica o motel."
 
 # game/Saturday.rpy:138
 translate ptbr saturday_1d4eebf0:
@@ -598,13 +598,13 @@ translate ptbr saturday_1d4eebf0:
 translate ptbr saturday_32c7fd69:
 
     # "There are only a few other cars in the parking lot."
-    "Há apenas alguns poucos carros no estacionamento."
+    "Há pouquíssimos carros no estacionamento."
 
 # game/Saturday.rpy:145
 translate ptbr saturday_e0987369:
 
     # "I park in the closest spot next to the door and switch off the ignition, relieved to be done with the driving."
-    "Eu estaciono na vaga mais próxima da porta do nosso quarto e desligo o motor, aliviado por ter terminado de dirigir."
+    "Eu estaciono na vaga mais próxima da entrada e desligo o motor, aliviado por ter terminado de dirigir."
 
 # game/Saturday.rpy:146
 translate ptbr saturday_c1fcf9d5:
@@ -616,13 +616,13 @@ translate ptbr saturday_c1fcf9d5:
 translate ptbr saturday_23f5c192:
 
     # m "— Uuugh. I hope you're grateful, TJ. I never wanna drive that long again."
-    m "\"Uuugh. Espero que você esteja grato TJ. Nunca mais quero dirigir por tanto tempo de novo.\""
+    m "\"Uuugh. Espero que você esteja grato TJ. Nunca mais quero dirigir tanto assim de novo.\""
 
 # game/Saturday.rpy:148
 translate ptbr saturday_6526b078:
 
     # t "— Thaaaanks, Chase!"
-    t "\"Vaaaleuuu, Chase!\""
+    t "\"Valeeeeeuu, Chase!\""
 
 # game/Saturday.rpy:150
 translate ptbr saturday_a45fc748:
@@ -652,7 +652,7 @@ translate ptbr saturday_4f0197f3:
 translate ptbr saturday_376deff5:
 
     # "I smile as I follow him out and stretch as well, though less flamboyantly. It's good to see TJ reverting back to his old, cheerful self."
-    "Eu sorrio enquanto sigo ele pra fora e me espreguiço também, embora com menos extravagância. É bom ver o TJ voltando ao seu velho e alegre eu."
+    "Eu sorrio enquanto sigo ele pra fora e me espreguiço também, embora com menos extravagância. É bom ver o TJ voltando com a empolgação de costume."
 
 # game/Saturday.rpy:159
 translate ptbr saturday_d034efad:
@@ -664,7 +664,7 @@ translate ptbr saturday_d034efad:
 translate ptbr saturday_c8ea0559:
 
     # j "— You boys wanna bring in our stuff?"
-    j "\"Vocês, garotos, querem trazer as nossas coisas?\""
+    j "\"Garotos, que tal trazer as nossas coisas?\""
 
 # game/Saturday.rpy:161
 translate ptbr saturday_999d7440:
@@ -706,7 +706,7 @@ translate ptbr saturday_faa4cf3c:
 translate ptbr saturday_8a39f568:
 
     # j "— Yeah, thought I'd get one of the nicer rooms, since everything here is dirt cheap."
-    j "\"É, achei melhor pegar um dos quartos mais legais, já que tudo aqui é barato pra caramba.\""
+    j "\"É, achei melhor pegar um dos melhores quartos, já que tudo aqui é barato pra caramba.\""
 
 # game/Saturday.rpy:176
 translate ptbr saturday_705f287e:
@@ -736,7 +736,7 @@ translate ptbr saturday_2b068180:
 translate ptbr saturday_0c7308c2:
 
     # "She hands us both our keycards, which I slip into my back pocket."
-    "Ela entrega os nossos dois cartões, que eu enfio no meu bolso de trás."
+    "Ela entrega os nossos cartões, que eu guardo no meu bolso de trás."
 
 # game/Saturday.rpy:181
 translate ptbr saturday_af534cf8:
@@ -814,7 +814,7 @@ translate ptbr saturday_bb911c0b:
 translate ptbr saturday_cae25fc9:
 
     # t "— And didn't you already get into grad school? You should relax."
-    t "\"E você já não entrou pra pós-graduação? Você deveria relaxar.\""
+    t "\"E você já não entrou pra pós? Você deveria relaxar.\""
 
 # game/Saturday.rpy:199
 translate ptbr saturday_8942a686:
@@ -838,7 +838,7 @@ translate ptbr saturday_ad2f8e34:
 translate ptbr saturday_f31a60dc:
 
     # "I look through the peephole excitedly and see a beanie cap with a pair of some very familiar horns poking through it."
-    "Eu olho pelo olho mágico animado e vejo uma touca com um par de chifres muito familiares saindo dela."
+    "Eu olho animado pelo olho mágico e vejo uma touca com um par de chifres muito familiares saindo dela."
 
 # game/Saturday.rpy:205
 translate ptbr saturday_9dc01fd9:
@@ -922,7 +922,7 @@ translate ptbr saturday_0c4cc046:
 translate ptbr saturday_c3e05855:
 
     # "His jokey nature drops a bit as he gives me a genuine smile."
-    "Sua natureza brincalhona diminui um pouco enquanto ele me dá um sorriso genuíno."
+    "Sua natureza brincalhona diminui um pouco quando ele me dá um sorriso genuíno."
 
 # game/Saturday.rpy:220
 translate ptbr saturday_07ca519b:
@@ -970,7 +970,7 @@ translate ptbr saturday_134f3e29:
 translate ptbr saturday_b9004d78:
 
     # c "— Not bad, just livin' life, like I'mma be..."
-    c "\"Nada mal, só levando a vida, como eu vou estar...\""
+    c "\"Nada mal, só deixando a vida me levar, vida leva...\""
 
 # game/Saturday.rpy:232
 translate ptbr saturday_1c996e21:
@@ -1072,7 +1072,7 @@ translate ptbr saturday_fff014f3:
 translate ptbr saturday_ee240b27:
 
     # t "— You been able to find a job? I know they closed the old Corner Market you used to work at."
-    t "\"Você tem conseguido achar um emprego? Eu sei que fecharam o velho Corner Market que você costumava trabalhar.\""
+    t "\"Você conseguiu achar um emprego? Eu sei que fecharam o velho Mercadinho De Esquina que você costumava trabalhar.\""
 
 # game/Saturday.rpy:253
 translate ptbr saturday_d8444523:
@@ -1096,7 +1096,7 @@ translate ptbr saturday_1f6b51b8:
 translate ptbr saturday_3c19704b:
 
     # t "— You crashed the one your parents got you."
-    t "\"E você ainda bateu aquele que os seus pais te deram.\""
+    t "\"Você bateu aquele que os seus pais te deram.\""
 
 # game/Saturday.rpy:258
 translate ptbr saturday_695c7caf:
@@ -1156,7 +1156,7 @@ translate ptbr saturday_dbc348c3:
 translate ptbr saturday_6bf137c0:
 
     # t "— You cooouuld try smoking less weed, that might help."
-    t "\"Você poooderia tentar fumar menos maconha, isso talvez ajude.\""
+    t "\"Você poderiiiiiia tentar fumar menos maconha, isso talvez ajude.\""
 
 # game/Saturday.rpy:272
 translate ptbr saturday_f076f777:
@@ -1168,7 +1168,7 @@ translate ptbr saturday_f076f777:
 translate ptbr saturday_86c68627:
 
     # c "— Is this—was I set up for an intervention, or something?"
-    c "\"Isso é—foi uma armadilha pra uma intervenção, ou algo assim?\""
+    c "\"Isso é— foi uma armadilha pra uma intervenção, ou algo assim?\""
 
 # game/Saturday.rpy:275
 translate ptbr saturday_be0d8dab:
@@ -1180,7 +1180,7 @@ translate ptbr saturday_be0d8dab:
 translate ptbr saturday_c4c1c014:
 
     # m "— Hey, don't look at me. I had to deal with them for the past ten hours."
-    m "\"Ei, não olhe pra mim. Tive que lidar com eles nas últimas dez horas.\""
+    m "\"Ei, não olhe pra mim. Tive que lidar com eles pelas últimas dez horas.\""
 
 # game/Saturday.rpy:277
 translate ptbr saturday_bd58b797:
@@ -1216,7 +1216,7 @@ translate ptbr saturday_72e80bbf:
 translate ptbr saturday_c61b468d:
 
     # "Carl seems pretty eager to get off the topic, though."
-    "Carl parece bem ansioso pra mudar de assunto, no entanto."
+    "No entanto, Carl parece bem ansioso pra mudar de assunto."
 
 # game/Saturday.rpy:284
 translate ptbr saturday_906eeb97:
@@ -1318,7 +1318,7 @@ translate ptbr saturday_b9ee7ab3:
 translate ptbr saturday_076bf9a1:
 
     # "Carl gives a thumbs up."
-    "Carl faz um sinal de joia."
+    "Carl faz um joinha."
 
 # game/Saturday.rpy:302
 translate ptbr saturday_ed8a9f85:
@@ -1360,7 +1360,7 @@ translate ptbr saturday_639cc246:
 translate ptbr saturday_730cb584:
 
     # "TJ almost looks like that little kid lynx again, his ears twitching around with excitement."
-    "TJ quase parece aquele lincezinho de novo, com as orelhas se contorcendo de empolgação."
+    "TJ quase parece aquele lincezinho de novo, com as orelhas tremendo de empolgação."
 
 # game/Saturday.rpy:311
 translate ptbr saturday_8b5c0245:
@@ -1372,7 +1372,7 @@ translate ptbr saturday_8b5c0245:
 translate ptbr saturday_fd9dbabd:
 
     # "I grip the bedspread and watch as Carl moves around the corner to open the door."
-    "Eu aperto a colcha e observo enquanto Carl vira a esquina pra abrir a porta."
+    "Eu aperto a colcha e observo enquanto Carl vai abrir a porta."
 
 # game/Saturday.rpy:317
 translate ptbr saturday_33350a54:
@@ -1420,7 +1420,7 @@ translate ptbr saturday_53869636:
 translate ptbr saturday_f9118c7e:
 
     # "There's some bustling before they start coming around the corner, bringing me face-to-face with the rest of my childhood friends."
-    "Tem um certo alvoroço antes que eles comecem a virar a esquina, me deixando cara a cara com o resto dos meus amigos de infância."
+    "Tem um certo alvoroço antes que eles cheguem da entrada, me deixando cara a cara com o resto dos meus amigos de infância."
 
 # game/Saturday.rpy:328
 translate ptbr saturday_399f3aac:
@@ -1432,7 +1432,7 @@ translate ptbr saturday_399f3aac:
 translate ptbr saturday_90576388:
 
     # "Unlike Carl, though, his slouch makes him look like he just doesn't give a fuck, as opposed to just trying to make himself seem smaller."
-    "Diferente do Carl, no entanto, a postura dele faz parecer que ele só tá pouco se fodendo, ao contrário de só tentar parecer menor."
+    "Só que, diferente do Carl, a postura dele faz parecer que ele só tá pouco se fodendo, ao contrário de tentar parecer menor."
 
 # game/Saturday.rpy:330
 translate ptbr saturday_94c02e0d:
@@ -1468,7 +1468,7 @@ translate ptbr saturday_1caf4a51:
 translate ptbr saturday_4b9efec1:
 
     # "Immediately following him, his arms wrapped around two big, brown, paper bags, is Leo."
-    "Logo atrás dele, com os braços enrolados em duas sacolas grandes de papel pardo, tá o Leo."
+    "Logo atrás dele, com os braços segurando duas sacolas grandes de papel pardo, tá o Leo."
 
 # game/Saturday.rpy:340
 translate ptbr saturday_19f61756:
@@ -1528,7 +1528,7 @@ translate ptbr saturday_73fce836:
 translate ptbr saturday_cef668aa:
 
     # "Everything's fine."
-    "Tá tudo bem."
+    "Está tudo bem."
 
 # game/Saturday.rpy:350
 translate ptbr saturday_f8ce09b4:
@@ -1552,13 +1552,13 @@ translate ptbr saturday_5325a2fa:
 translate ptbr saturday_5a34df46:
 
     # j "— And just like that he forgets we exist."
-    j "\"E assim do nada ele esquece que a gente existe.\""
+    j "\"E lá vai ele esquecendo que a gente existe.\""
 
 # game/Saturday.rpy:354
 translate ptbr saturday_8dc833f3:
 
     # "Leo finally does pull back, then, smacking me on the shoulder before turning to greet Jenna and TJ."
-    "Leo finalmente se afasta, então, me dando um tapinha no ombro antes de se virar pra cumprimentar a Jenna e o TJ."
+    "Leo finalmente me solta, dando um tapinha em meu ombro antes de se virar pra cumprimentar a Jenna e o TJ."
 
 # game/Saturday.rpy:356
 translate ptbr saturday_7c442513:
@@ -1636,13 +1636,13 @@ translate ptbr saturday_36f0404f:
 translate ptbr saturday_bbd4c0c1:
 
     # c "— Try saying 'white flakes that chip off of me with every step I take...except when I scratch my ass, then it's like a fucking blizzard of dead skin"
-    c "\"Tenta falar 'flocos brancos que soltam de mim a cada passo que dou... exceto quando eu coço a minha bunda, aí é tipo uma porra de nevasca de pele morta\""
+    c "\"Tenta falar 'flocos brancos que soltam de mim a cada passo que dou... exceto quando eu coço a minha bunda, aí é tipo uma fodendo nevasca de pele morta\""
 
 # game/Saturday.rpy:374
 translate ptbr saturday_7c12cda7:
 
     # c "— ...and some of it might land in your mouth.'"
-    c "\"...e um pouco pode parar na sua boca.\""
+    c "\"...e um pouco pode ir parar na sua boca.'\""
 
 # game/Saturday.rpy:375
 translate ptbr saturday_e402eb8c:
@@ -1684,7 +1684,7 @@ translate ptbr saturday_6e169b48:
 translate ptbr saturday_9ccfbc2f:
 
     # "TJ says it to him like a cheerful kindergarten teacher pep-talking a student into using his words."
-    "TJ diz isso pra ele como uma professora de jardim de infância animada incentivando um aluno a usar as palavras dele."
+    "TJ diz isso pra ele como um professor de jardim de infância animado incentivando um aluno a usar as palavras dele."
 
 # game/Saturday.rpy:385
 translate ptbr saturday_2c8a8489:
@@ -1702,7 +1702,7 @@ translate ptbr saturday_88c12fcb:
 translate ptbr saturday_f6ef5dc1:
 
     # "They stare at each other for about five seconds, Flynn's expression like a stone, while TJ slowly loses his smile."
-    "Eles se encaram por uns cinco segundos, a expressão do Flynn que nem pedra, enquanto o TJ perde lentamente o sorriso."
+    "Eles se encaram por uns cinco segundos, a expressão do Flynn que nem pedra, enquanto o TJ perde o sorriso lentamente."
 
 # game/Saturday.rpy:389
 translate ptbr saturday_f30aee05:
@@ -1714,7 +1714,7 @@ translate ptbr saturday_f30aee05:
 translate ptbr saturday_b40f4660:
 
     # f "— Well Jesus butt-fucking Christ, I'll be sure to watch that."
-    f "\"Bom, Jesus Cristo, puta que pariu, eu vou ter certeza de prestar atenção nisso.\""
+    f "\"Ave Maria puta de graça, eu com certeza vou prestar atenção nisso.\""
 
 # game/Saturday.rpy:391
 translate ptbr saturday_8d1208d0:
@@ -1756,7 +1756,7 @@ translate ptbr saturday_ac1783cc:
 translate ptbr saturday_219bda46:
 
     # t "— Y—you still said it!"
-    t "\"V-você ainda disse isso!\""
+    t "\"V-você disse mesmo assim!\""
 
 # game/Saturday.rpy:401
 translate ptbr saturday_6997d45c:
@@ -1774,7 +1774,7 @@ translate ptbr saturday_7f4a8825:
 translate ptbr saturday_b14409ee:
 
     # f "— Look, no lightnin'! So much for your almighty go—OOF!"
-    f "\"Olha, nenhum raio! Pelo visto seu Deus todo-poderoso... OOF!\""
+    f "\"Olha, nenhum raio! Pelo visto seu Deus todo-podero— OOF!\""
 
 # game/Saturday.rpy:404
 translate ptbr saturday_977ed819:
@@ -1786,7 +1786,7 @@ translate ptbr saturday_977ed819:
 translate ptbr saturday_ca0b8ce1:
 
     # t "— Ha! See? God works in mysterious wa—OW!"
-    t "\"Rá! Tá vendo? Deus trabalha de formas misterios—AI!\""
+    t "\"Rá! Tá vendo? Deus trabalha de formas misterios— AI!\""
 
 # game/Saturday.rpy:406
 translate ptbr saturday_cffdb32b:
@@ -1816,7 +1816,7 @@ translate ptbr saturday_e7700eec:
 translate ptbr saturday_48e7ab86:
 
     # "Carl was especially keen on it. Being a ram his horns were often used as leverage against him."
-    "O Carl era especialmente a favor disso. Sendo um carneiro, seus chifres frequentemente eram usados como alavanca contra ele."
+    "O Carl era especialmente a favor disso. Sendo um carneiro, seus chifres eram frequentemente usados contra ele."
 
 # game/Saturday.rpy:411
 translate ptbr saturday_ed0002fe:
@@ -1840,7 +1840,7 @@ translate ptbr saturday_28a1e012:
 translate ptbr saturday_870e56aa:
 
     # "With that, TJ walks over to the table to get his food."
-    "Com isso, TJ caminha até a mesa pra pegar a comida dele."
+    "Com isso, TJ caminha até a mesa pra pegar sua comida."
 
 # game/Saturday.rpy:416
 translate ptbr saturday_b7fd02df:
@@ -1924,7 +1924,7 @@ translate ptbr saturday_533fec5b:
 translate ptbr saturday_13d5af14:
 
     # "Leo took us all straight from Payton High to the diner, skipping out on the all-night graduation party for sandwiches and milkshakes."
-    "O Leo levou a gente direto da Payton High pra lanchonete, pulando a festa de formatura que duraria a noite toda por sanduíches e milkshakes."
+    "O Leo levou a gente direto da Payton High pra lanchonete, trocando a festa de formatura que duraria a noite toda por sanduíches e milkshakes."
 
 # game/Saturday.rpy:433
 translate ptbr saturday_e7cd21e7:
@@ -1948,7 +1948,7 @@ translate ptbr saturday_d0a6e89d:
 translate ptbr saturday_ff808e43:
 
     # "I quickly grab a napkin and bring it to my muzzle, wiping away the grease."
-    "Eu pego rápido um guardanapo e levo pro focinho, limpando a gordura."
+    "Eu rapidamente pego um guardanapo e levo pro focinho, limpando a gordura."
 
 # game/Saturday.rpy:438
 translate ptbr saturday_e1ae294b:
@@ -1984,7 +1984,7 @@ translate ptbr saturday_d5f2f728:
 translate ptbr saturday_9dc17c31:
 
     # c "— Hey, Flynn. I'll bet you that I can eat this whole burger in one minute."
-    c "\"Ei, Flynn. Aposto com você que eu consigo comer esse hambúrguer inteiro em um minuto.\""
+    c "\"Ei, Flynn. Aposto que eu consigo comer esse hambúrguer inteiro em um minuto.\""
 
 # game/Saturday.rpy:448
 translate ptbr saturday_2c8a8489_1:
@@ -2032,7 +2032,7 @@ translate ptbr saturday_59730911:
 translate ptbr saturday_70253646:
 
     # m "— I guess it's a good thing your dad moved it out of Echo, huh?"
-    m "\"Acho que foi uma boa o seu pai ter tirado de Echo, hein?\""
+    m "\"Acho que foi uma boa o seu pai ter saído de Echo, hein?\""
 
 # game/Saturday.rpy:459
 translate ptbr saturday_f92816d6:
@@ -2068,7 +2068,7 @@ translate ptbr saturday_1332201c:
 translate ptbr saturday_50591bde:
 
     # "I notice TJ sitting next to Jenna at the table, picking unhappily at his lettuce wrapped chicken."
-    "Eu noto o TJ sentado do lado da Jenna na mesa, cutucando infeliz no seu frango enrolado na alface."
+    "Eu noto o TJ sentado do lado da Jenna na mesa, cutucando infeliz no seu frango enrolado em alface."
 
 # game/Saturday.rpy:469
 translate ptbr saturday_a4f8365f:
@@ -2152,7 +2152,7 @@ translate ptbr saturday_fc3848f0:
 translate ptbr saturday_34682b18:
 
     # t "— What!?"
-    t "\"Que foi!?$\""
+    t "\"Que foi!?\""
 
 # game/Saturday.rpy:484
 translate ptbr saturday_5e91cb3d:
@@ -2170,7 +2170,7 @@ translate ptbr saturday_f30550e5:
 translate ptbr saturday_805180c2:
 
     # l "— Yes, we actually tried to sell it last year, but of course no one bought."
-    l "\"Sim, a gente na verdade tentou vender no ano passado, mas é claro que ninguém comprou.\""
+    l "\"Sim, a gente até tentou vender no ano passado, mas é claro que ninguém comprou.\""
 
 # game/Saturday.rpy:490
 translate ptbr saturday_a5932b53:
@@ -2206,13 +2206,13 @@ translate ptbr saturday_1b3c2a42:
 translate ptbr saturday_b90836f4:
 
     # "He sure could eat a lot."
-    "Ele com certeza conseguia comer muito."
+    "Ele com certeza consegue comer muito."
 
 # game/Saturday.rpy:496
 translate ptbr saturday_08831451:
 
     # m "— How many people are still here, anyway? In the town, I mean."
-    m "\"Quantas pessoas ainda tão aqui, afinal? Na cidade, eu quero dizer.\""
+    m "\"Quantas pessoas ainda tão aqui? Sabe, na cidade.\""
 
 # game/Saturday.rpy:497
 translate ptbr saturday_d25048c9:
@@ -2230,7 +2230,7 @@ translate ptbr saturday_7b18c7af:
 translate ptbr saturday_4b35938b:
 
     # l "— Most everyone's turned their old house into a sort of vacation home, now."
-    l "\"Quase todo mundo transformou a velha casa numa espécie de casa de férias, agora.\""
+    l "\"Quase todo mundo transformou a velha casa numa espécie de casa de férias.\""
 
 # game/Saturday.rpy:500
 translate ptbr saturday_63439dbc:
@@ -2260,7 +2260,7 @@ translate ptbr saturday_67db2415:
 translate ptbr saturday_ace4b991:
 
     # l "— And the town is actually trying to turn that old lake into a recreational thing."
-    l "\"E a cidade na verdade tá tentando transformar aquele velho lago em algo recreativo.\""
+    l "\"E a cidade realmente tá tentando transformar aquele velho lago em algo recreativo.\""
 
 # game/Saturday.rpy:505
 translate ptbr saturday_aa984d1e:
@@ -2320,7 +2320,7 @@ translate ptbr saturday_d1051442:
 translate ptbr saturday_ca350828:
 
     # "The others are pretty deep in their own conversations, but I lower my voice anyway, leaning into Leo."
-    "Os outros tão bem fundo em suas próprias conversas, mas eu abaixo minha voz mesmo assim, me inclinando pro Leo."
+    "Os outros tão bem fundo em suas próprias conversas, mas mesmo assim eu abaixo minha voz, me inclinando pro Leo."
 
 # game/Saturday.rpy:515
 translate ptbr saturday_29f60f11:
@@ -2500,7 +2500,7 @@ translate ptbr saturday_29ae864d:
 translate ptbr saturday_7f685c36:
 
     # l "— Listen, there's a cool little spot by the river that's actually pretty close to the lake."
-    l "\"Escuta, tem um lugarzinho legal perto do rio que na verdade é bem perto do lago.\""
+    l "\"Escuta, tem um lugarzinho legal no rio que na verdade é bem perto do lago.\""
 
 # game/Saturday.rpy:552
 translate ptbr saturday_ab40ccc7:
@@ -2572,7 +2572,7 @@ translate ptbr saturday_0dd06364:
 translate ptbr saturday_a1f47678:
 
     # l "— Well of course I'm happy to see us all back together again."
-    l "\"Bom, é claro que eu tô feliz em ver todos nós de volta juntos de novo.\""
+    l "\"Bom, é claro que eu tô feliz em ver todos nós juntos de novo.\""
 
 # game/Saturday.rpy:571
 translate ptbr saturday_da721ed1:
@@ -2590,7 +2590,7 @@ translate ptbr saturday_83639221:
 translate ptbr saturday_2202cec5:
 
     # c "— Agreed, Leo's been kind of a dick ever since you guys left."
-    c "\"Concordo, o Leo tem sido meio idiota desde que vocês foram embora.\""
+    c "\"Concordo, o Leo tem sido meio babaca desde que vocês foram embora.\""
 
 # game/Saturday.rpy:578
 translate ptbr saturday_9d7a981e:
@@ -2602,7 +2602,7 @@ translate ptbr saturday_9d7a981e:
 translate ptbr saturday_64d8f080:
 
     # j "— Um, I'm still an undergrad. I'm not going into counseling, anyway."
-    j "\"Hum, eu ainda tô na graduação. Eu não vou pra área de aconselhamento, de qualquer forma.\""
+    j "\"Hum, ainda tô na graduação. Eu que não vou pra área de aconselhamento.\""
 
 # game/Saturday.rpy:584
 translate ptbr saturday_d26d191c:
@@ -2650,19 +2650,19 @@ translate ptbr saturday_c5d3418a:
 translate ptbr saturday_19ea8486:
 
     # l "— Wh-I-I..."
-    l "\"O-q-Eu-Eu...\""
+    l "\"O-q-E-Eu...\""
 
 # game/Saturday.rpy:596
 translate ptbr saturday_f7952baf:
 
     # "Leo pauses, pinned down by everyone's eyes in the room, then he takes a frustrated breath."
-    "Leo pausa, imobilizado pelos olhos de todos na sala, então ele solta um suspiro frustrado."
+    "Leo pausa, imobilizado pelos olhos de todos na sala, finalmente ele solta um suspiro frustrado."
 
 # game/Saturday.rpy:597
 translate ptbr saturday_55b6bf0a:
 
     # l "— Can't people be sad sometimes? Yes, things have been more...have been harder, but I'm fine."
-    l "\"As pessoas não podem ficar tristes de vez em quando? Sim, as coisas têm sido mais... têm sido mais difíceis, mas eu tô bem.\""
+    l "\"As pessoas não podem ficar tristes de vez em quando? Sim, as coisas têm sido... têm sido mais difíceis, mas eu tô bem.\""
 
 # game/Saturday.rpy:598
 translate ptbr saturday_13b03fed:
@@ -2710,13 +2710,13 @@ translate ptbr saturday_1abf6d0d:
 translate ptbr saturday_e169a1a8:
 
     # "A silver anchor, tied around his wrist with leather. The word otter is etched into the shank of the anchor, the name Chase is engraved into the stock."
-    "Uma âncora de prata, amarrada ao redor do pulso dele com couro. A palavra lontra tá cravada na haste da âncora, o nome Chase tá gravado no cepo."
+    "Uma âncora de prata, amarrada ao redor de seu pulso com couro. A palavra lontra tá cravada na haste da âncora, o nome Chase tá gravado no cepo."
 
 # game/Saturday.rpy:613
 translate ptbr saturday_99fb4784:
 
     # "Why was he still..."
-    "Por que ele ainda tava..."
+    "Por que ele ainda estava..."
 
 # game/Saturday.rpy:614
 translate ptbr saturday_6e4cbcbb:
@@ -2758,13 +2758,13 @@ translate ptbr saturday_5df2e16c:
 translate ptbr saturday_6762d116:
 
     # t "— We were just talking about {i}The Last Game{/i}. Didn't you tell me that you saw that movie on the drive here?."
-    t "\"A gente tava falando sobre {i}O Último Jogo{/i}. Você não me disse que assistiu a esse filme na viagem pra cá?\""
+    t "\"A gente tava falando sobre {i}O Último Jogo{/i}. Você não tava dizendo que assistiu esse filme durante a viagem?\""
 
 # game/Saturday.rpy:629
 translate ptbr saturday_7cf91e25:
 
     # c "— I really don't get you right now, TJ...{i}The Last Game{/i} was the WORST Lion's Brigade movie!"
-    c "\"Eu realmente não te entendo agora, TJ... {i}O Último Jogo{/i} foi o PIOR filme da Brigada do Leão!\""
+    c "\"Eu realmente não to te entendendo, TJ... {i}O Último Jogo{/i} foi o PIOR filme da Brigada do Leão!\""
 
 # game/Saturday.rpy:633
 translate ptbr saturday_c60420f9:
@@ -2776,7 +2776,7 @@ translate ptbr saturday_c60420f9:
 translate ptbr saturday_8060978b:
 
     # t "— Yeah, Carl, as a movie it was just better...I'm sure the comics are great too, though, hehe."
-    t "\"É, Carl, como filme foi só melhor... eu tenho certeza que os quadrinhos são ótimos também, no entanto, hehe.\""
+    t "\"É, Carl, como filme foi só melhor... e tenho certeza que os quadrinhos também são ótimos, hehe.\""
 
 # game/Saturday.rpy:642
 translate ptbr saturday_3f5a507f:
@@ -2794,7 +2794,7 @@ translate ptbr saturday_2ce5cbfd:
 translate ptbr saturday_ebe8cd3a:
 
     # c "— See? This is the problem. They never follow the source material and no one cares because they have no respect for the originals, man."
-    c "\"Tá vendo? Esse é o problema. Eles nunca seguem o material de origem e ninguém liga porque não têm nenhum respeito pelos originais, cara.\""
+    c "\"Tá vendo? Esse é o problema. Eles nunca seguem a fonte e ninguém liga porque eles não têm nenhum respeito pelos originais, poxa.\""
 
 # game/Saturday.rpy:652
 translate ptbr saturday_80dae186:
@@ -2830,7 +2830,7 @@ translate ptbr saturday_98ab8954:
 translate ptbr saturday_a9e2ea3d:
 
     # c "— The Trinity comics have always been pretty lame. They're jerk-off fodder for lonely nerds...and so's the movie."
-    c "\"Os quadrinhos da Trinity sempre foram bem fracos. Eles são material de punheta pra nerds solitários... e o filme também.\""
+    c "\"Os quadrinhos da Trinity sempre foram bem sem graça. Eles são material de punheta pra nerds solitários... e o filme também.\""
 
 # game/Saturday.rpy:662
 translate ptbr saturday_7c78e382:
@@ -2854,7 +2854,7 @@ translate ptbr saturday_5e428159:
 translate ptbr saturday_ebd526cb:
 
     # f "— Never seen an ass like hers on a weasel before."
-    f "\"Nunca vi uma bunda como a dela numa doninha antes.\""
+    f "\"Nunca vi uma doninha com uma bunda daquela antes.\""
 
 # game/Saturday.rpy:674
 translate ptbr saturday_e3afe8c1:
@@ -2872,13 +2872,13 @@ translate ptbr saturday_aed19cfc:
 translate ptbr saturday_7dba8b33:
 
     # t "— It's really kind of deep, if you think about it."
-    t "\"É meio profunda de verdade, se você parar pra pensar.\""
+    t "\"É meio que profunda mesmo, se você parar pra pensar.\""
 
 # game/Saturday.rpy:682
 translate ptbr saturday_a1240a27:
 
     # f "— It was hard to think about when half the shots are slo-mo and she's doing all these flips and backbends and shit."
-    f "\"Foi difícil de pensar nisso quando metade das cenas é em câmera lenta e ela tá dando um monte de mortal, cambalhota e essas merdas.\""
+    f "\"Foi difícil de pensar nisso quando metade das cenas é em câmera lenta e ela tá dando um monte de mortal, cambalhota e essas putarias.\""
 
 # game/Saturday.rpy:687
 translate ptbr saturday_46d8627d:
@@ -2896,13 +2896,13 @@ translate ptbr saturday_63106da6:
 translate ptbr saturday_8e76d9b2:
 
     # j "— Come on, Trinity DOES have more story going on than your average superhero movie."
-    j "\"Qual é, Trinity TEM mais história rolando do que a média dos seus filmes de super-herói.\""
+    j "\"Qual é, Trinity TEM mais história rolando do que se espera dos filmes de super-herói.\""
 
 # game/Saturday.rpy:690
 translate ptbr saturday_9e0d8219:
 
     # j "— I think it's great that you like her character over all the meat-heads."
-    j "\"Eu acho ótimo que você goste da personagem dela mais do que de todos aqueles caras musculosos.\""
+    j "\"Eu acho ótimo que você goste da personagem dela mais do que de todos aqueles brutamontes.\""
 
 # game/Saturday.rpy:691
 translate ptbr saturday_3d1757d9:
@@ -2956,13 +2956,13 @@ translate ptbr saturday_592b203e:
 translate ptbr saturday_5f7c68ca:
 
     # c "— Daaaamn TJ, where'd that come from?"
-    c "\"Caaaaraio TJ, de onde veio isso?\""
+    c "\"Caraaaaaio TJ, de onde veio isso?\""
 
 # game/Saturday.rpy:711
 translate ptbr saturday_466c55a9:
 
     # "It isn't that it is a particularly good joke. It's that it came from TJ that makes it so funny."
-    "Não é que seja uma piada particularmente boa. É que veio do TJ que torna tão engraçado."
+    "Não é que seja uma piada particularmente boa. É que ser logo o TJ torna isso tão engraçado."
 
 # game/Saturday.rpy:712
 translate ptbr saturday_6274e21f:
@@ -3004,13 +3004,13 @@ translate ptbr saturday_65a5a5f4:
 translate ptbr saturday_0dcfc7bb:
 
     # "Leo steps forward, indicating that we should all shut up."
-    "Leo dá um passo à frente, indicando que todos nós devíamos calar a boca."
+    "Leo dá um passo à frente, indicando que todos nós devíamos ficar quietos."
 
 # game/Saturday.rpy:724
 translate ptbr saturday_4352de76:
 
     # l "— Now, we all need to remember that Chase is here to do his school project, so that comes first."
-    l "\"Agora, a gente precisa se lembrar de que o Chase tá aqui pra fazer o projeto da faculdade dele, então isso vem em primeiro lugar.\""
+    l "\"Agora, a gente precisa se lembrar de que o Chase tá aqui pra fazer seu projeto da facul, então isso vem primeiro.\""
 
 # game/Saturday.rpy:725
 translate ptbr saturday_0644f5d2:
@@ -3022,7 +3022,7 @@ translate ptbr saturday_0644f5d2:
 translate ptbr saturday_a9aad8dd:
 
     # l "— I'm pretty sure all of us know that we're going to Southwest Adventures tomorrow, so I'll pick these two up—"
-    l "\"Tenho quase certeza que todo mundo sabe que vamos pro Southwest Adventures amanhã, então eu vou pegar esses dois—\""
+    l "\"Tenho quase certeza que todo já mundo sabe que vamos pro Aventuras Do Sudoeste amanhã, então eu vou pegar esses dois—\""
 
 # game/Saturday.rpy:727
 translate ptbr saturday_f54e80cd:
@@ -3052,7 +3052,7 @@ translate ptbr saturday_4a146edf:
 translate ptbr saturday_1d50b169:
 
     # l "— In between those times we should find time to hang out as well, make the most of this."
-    l "\"Entre esses momentos a gente devia achar um tempo pra dar uns rolês também, aproveitar ao máximo isso.\""
+    l "\"Entre esses momentos a gente devia achar um tempo pra dar uns rolês também, aproveitar isso ao máximo.\""
 
 # game/Saturday.rpy:732
 translate ptbr saturday_72c9c1d4:
@@ -3070,7 +3070,7 @@ translate ptbr saturday_6b8f550d:
 translate ptbr saturday_17e17c6f:
 
     # l "— Think you could get a pic of us? It would be nice for all of us to have something that isn't camera phone quality."
-    l "\"Acha que consegue tirar uma foto da gente? Seria legal pra todos nós ter alguma coisa que não seja na qualidade da câmera do celular.\""
+    l "\"Acha que consegue tirar uma foto nossa? Seria legal pra todo mundo ter alguma coisa que não seja só uma foto de celular.\""
 
 # game/Saturday.rpy:735
 translate ptbr saturday_8baa3959:
@@ -3106,7 +3106,7 @@ translate ptbr saturday_98a65776:
 translate ptbr saturday_55f86cec:
 
     # "For the next two hours we watch a movie on TV, not really paying attention, mostly catching up with each other on how we'd been."
-    "Pelas próximas duas horas a gente assiste a um filme na TV, sem prestar atenção de verdade, mais pondo o papo em dia sobre como a gente tava."
+    "Pelas próximas duas horas, a gente assiste a um filme na TV, sem prestar atenção direito, mais pondo o papo em dia sobre como a gente tava."
 
 # game/Saturday.rpy:752
 translate ptbr saturday_c0280a20:
@@ -3136,7 +3136,7 @@ translate ptbr saturday_ac56f3d2:
 translate ptbr saturday_f4b6e5cd:
 
     # "Once TJ finishes getting ready for bed in the bathroom, I do as well before getting into bed, head-to-toe with TJ."
-    "Assim que o TJ termina de se arrumar pra dormir no banheiro, eu faço o mesmo antes de deitar na cama, de cabeça pros pés com o TJ."
+    "Assim que o TJ sai do banheiro, pronto pra dormir, eu também me arrumo e deito na cama, em sentido oposto à ele."
 
 # game/Saturday.rpy:757
 translate ptbr saturday_4e65724c:
@@ -3148,7 +3148,7 @@ translate ptbr saturday_4e65724c:
 translate ptbr saturday_d0578e75:
 
     # "I lay in bed, staring at the ceiling, waiting for her to go to sleep..."
-    "Eu deito na cama, encarando o teto, esperando ela ir dormir..."
+    "Eu descanso na cama, encarando o teto, esperando ela ir dormir..."
 
 # game/Saturday.rpy:763
 translate ptbr saturday_0e605e7a:
@@ -3160,13 +3160,13 @@ translate ptbr saturday_0e605e7a:
 translate ptbr saturday_a611cb07:
 
     # "I look back, seeing the chain snaking back around the rocks and reeds before disappearing into the water."
-    "Eu olho pra trás, vendo a corrente rastejando de volta ao redor das pedras e do junco antes de sumir na água."
+    "Eu olho pra trás, vendo a corrente rastejando de volta por entre as pedras e o junco antes de sumir na água."
 
 # game/Saturday.rpy:765
 translate ptbr saturday_08c41525:
 
     # "Looking ahead again, I see Leo. He's smiling, waving at me."
-    "Olhando pra frente de novo, eu vejo o Leo. Ele tá sorrindo, acenando pra mim."
+    "Olhando pra frente de novo, eu vejo o Leo. Ele está sorrindo, acenando pra mim."
 
 # game/Saturday.rpy:766
 translate ptbr saturday_5dc18b8d:
@@ -3184,7 +3184,7 @@ translate ptbr saturday_971e333e:
 translate ptbr saturday_5df1d6e2:
 
     # "I stare at him, but he doesn't say anything and just keeps on smiling."
-    "Eu encaro ele, mas ele não diz nada e só continua sorrindo."
+    "Eu encaro ele, mas ele apenas continua sorrindo."
 
 # game/Saturday.rpy:769
 translate ptbr saturday_79595e4a:
@@ -3196,25 +3196,25 @@ translate ptbr saturday_79595e4a:
 translate ptbr saturday_446375c0:
 
     # "Leo kneels next to me, rubbing my back and sticking out his arm to compare our \"bracelets\", saying that everyone gets one."
-    "O Leo se ajoelha do meu lado, esfregando minhas costas e esticando o braço dele pra comparar nossos \"braceletes\", dizendo que todo mundo ganha um."
+    "O Leo se ajoelha do meu lado, esfregando minhas costas e esticando o braço dele pra comparar nossas \"pulseiras\", dizendo que todo mundo ganha uma."
 
 # game/Saturday.rpy:771
 translate ptbr saturday_5f0556cb:
 
     # "He seems happy, but now I'm stuck here. I can't even stand up to walk."
-    "Ele parece feliz, mas agora eu tô preso aqui. Eu não consigo nem me levantar pra andar."
+    "Ele parece feliz, mas agora eu estou preso aqui. Eu não consigo nem me levantar pra andar."
 
 translate ptbr strings:
 
-    # game/Saturday.rpy:91
+    # game/Saturday.rpy:92
     old "— Yeah"
     new "Sim."
 
-    # game/Saturday.rpy:91
+    # game/Saturday.rpy:95
     old "— Not really."
     new "Na verdade não."
 
-    # game/Saturday.rpy:91
+    # game/Saturday.rpy:98
     old "— I'm nervous."
     new "Estou nervoso."
 
